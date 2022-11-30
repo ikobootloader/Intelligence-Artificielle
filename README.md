@@ -1,2 +1,2 @@
 # Intelligence-Artificielle
-Etudes
+Etudes sur Tkinter
